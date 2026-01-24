@@ -1,1 +1,2 @@
-setting up repository for project
+LttleLemon Database development and data analysis
+
